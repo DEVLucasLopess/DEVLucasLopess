@@ -8,7 +8,6 @@
 [![Mineirinho](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVLucasLopess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Tecnologias que uso no meu dia 🖥️
-
 <div style="display: inline_block"><br/>
   <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -19,7 +18,6 @@
 </div><br/>
 
 #####  Tecnologias que já trabalhei 👾
-
 <div style="display: inline_block"><br/>
   <img align="center" alt="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
