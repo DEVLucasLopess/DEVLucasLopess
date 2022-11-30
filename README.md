@@ -18,7 +18,7 @@
   <img align="center" alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
 
-#####  Tecnologias que já que já trabalhei 👾
+#####  Tecnologias que já trabalhei 👾
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
